@@ -91,11 +91,13 @@ zip handler.zip ./main
 
 ## Golang
 
-パッケージ管理はgomoduleを使う
+> パッケージ管理はgomoduleを使う
 
 https://qiita.com/Syoitu/items/f221b52231703cebe8ff
 
+> LINE Messaging API SDK for Go
 
+https://github.com/line/line-bot-sdk-go
 
 
 
