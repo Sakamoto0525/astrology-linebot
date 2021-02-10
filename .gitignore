@@ -1,6 +1,2 @@
-bin
-
-# Serverless directories
+node_modules
 .serverless
-
-.env
